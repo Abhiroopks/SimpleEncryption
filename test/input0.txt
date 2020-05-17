@@ -1,0 +1,1 @@
+Hello, this is the input file for testing. Try to encode this and read it back!

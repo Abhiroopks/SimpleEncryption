@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Write $1 many bytes to $2 file
+shred -s $1 - > $2
