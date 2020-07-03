@@ -1,5 +1,6 @@
 # SimpleEncryption
 Tool to encrypt /decrypt files using very simple algorithm
+Don't actually use this, it is not a high-standard method.
 
 Parallelizes portion of code to speedup performance, using OpenMP
 
